@@ -1,8 +1,5 @@
 package com.example.sort;
 
-import java.io.*;
-
-// https://www.acmicpc.net/problem/2751
 public class MergeSort {
     public static void sort(int[] list, int start, int end) {
         if (start >= end) { return; }
