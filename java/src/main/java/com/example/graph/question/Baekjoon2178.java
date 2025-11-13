@@ -5,6 +5,7 @@ import java.util.Arrays;
 import java.util.Deque;
 import java.util.Scanner;
 
+// BFS
 public class Baekjoon2178 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

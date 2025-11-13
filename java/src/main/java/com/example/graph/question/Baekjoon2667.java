@@ -2,6 +2,7 @@ package com.example.graph.question;
 
 import java.util.*;
 
+// BFS
 public class Baekjoon2667 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
